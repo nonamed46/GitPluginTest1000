@@ -75,3 +75,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# TEST BITTE WIEDER LÖSCHEN
+Plugins/UE4GitPlugin-master/*
